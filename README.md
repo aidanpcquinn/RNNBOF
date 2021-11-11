@@ -24,6 +24,6 @@
 ## Usage:
 #### Descriptions and usage examples for all functions present in ExperimentDemo.ipynb, this file acts purely as instructions and usage examples.
 
-NB: The Thomas Embling Hospital risk assessment dataset that was used in the accompanying paper is not openly available due to sensitive and potentially identifying information. This notebook serves as a demo, with instructions included for all code made use of during the experiments as well as example outputs as they appeared when running the described experiments.
+NB: The Hospital risk assessment dataset that was used in the accompanying paper is not openly available due to sensitive and potentially identifying information. This notebook serves as a demo, with instructions included for all code made use of during the experiments as well as example outputs as they appeared when running the described experiments.
 
 
